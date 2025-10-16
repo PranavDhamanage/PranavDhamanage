@@ -11,7 +11,7 @@
   <img src="https://count.getloli.com/@:PranavDhamanage?theme=moebooru-h&padding=7&scale=1&align=bottom&pixelated=1&darkmode=auto"  />
 </div>
 
-###### *keep calm and make epic s**t
+
 
 <!-- <picture>
   <img src="output/snake.svg" alt="Snake animation" />
