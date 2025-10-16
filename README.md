@@ -1,14 +1,8 @@
 ## Hi there 👋
 
-<style>
-  .container {
-    display: grid;
-  }
-</style>
-
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavDhamanage&show_icons=true&theme=radical)
-<div class='container'>
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
@@ -21,7 +15,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-</div>
 
 
 
