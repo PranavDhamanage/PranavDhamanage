@@ -6,12 +6,6 @@
 ## stats 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavDhamanage&show_icons=true&theme=radical)
 
-## visitors
-<div align="center">
-  <img src="https://count.getloli.com/@:PranavDhamanage?theme=moebooru-h&padding=7&scale=1&align=bottom&pixelated=1&darkmode=auto"  />
-</div>
-
-
 
 <!-- <picture>
   <img src="output/snake.svg" alt="Snake animation" />
